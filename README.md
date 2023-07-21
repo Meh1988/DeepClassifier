@@ -1,4 +1,4 @@
-# DeepClassifier
+# Deep Ensemble Optimized Transformers 
 
 Heart Rate Classification
 This code provides a solution for classifying heart rate data using a transformer-based neural network model. It utilizes the TensorFlow and Keras libraries for deep learning.
